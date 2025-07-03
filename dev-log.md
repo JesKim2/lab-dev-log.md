@@ -1,3 +1,4 @@
+# Jessica Kim - July 2, 2025
 ## What I Learned Today
 1. Words are broken into bytes, and then byte pair encoding to save symbols and feed to the LLMs for training
 2. Inference is like unfair probability, and you need to change the weights to get the term you desire using trial and error
@@ -7,7 +8,7 @@
 - Tokenization is breaking something into smaller pieces, called tokens (usually words, characters, to even subwords depending on the context) and is used to feed information to the LLMs
 ## Lab Reflection
 
-> **_One thing I found surprising was that even professionals don't know how AI had a jump in inference capabilities, starting to recognize patterns and such_** I also liked how we could still use inference to guide the answer
+> **_One thing I found surprising was that even professionals don't know how AI had a jump in inference capabilities, starting to recognize patterns and such._** I also liked how we could still use inference to guide the answer
 ## Code Snippet
 
 ```python 
